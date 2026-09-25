@@ -1,3 +1,6 @@
+// Shared provider normalization helpers. Store adapters in the extension use
+// the same basic normalization rules, while provider-specific aliases and IDs
+// remain data owned by the catalog.
 export function normalizeTitle(value) {
   return String(value || "")
     .toLowerCase()

@@ -1,6 +1,9 @@
 import { writeFile } from "node:fs/promises";
 import { spawn } from "node:child_process";
 
+// Keep discovery separate from writing. If Playwright or the provider page
+// changes shape, this process fails and the last published catalog remains
+// untouched.
 function runDiscovery() {
   return new Promise((resolve, reject) => {
     const child = spawn(process.execPath, ["providers/geforce-now/discover.mjs"], { stdio: ["ignore", "pipe", "inherit"] });

@@ -11,6 +11,8 @@ permissions:
 
 jobs:
   geforce-now:
+    # Public standard runners are sufficient for the daily browser discovery.
+    # The workflow is the only place provider scraping should run.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

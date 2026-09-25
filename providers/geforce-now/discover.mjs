@@ -1,5 +1,8 @@
 import { chromium } from "playwright";
 
+// This runs in CI, not in the extension. We observe the same catalog network
+// responses used by NVIDIA's public games page so the extension can consume a
+// stable, provider-neutral JSON snapshot.
 const PAGE_URL = "https://www.nvidia.com/en-us/geforce-now/games/";
 
 function collectLiveItems(value, output = []) {
@@ -51,7 +54,9 @@ try {
   await page.goto(PAGE_URL, { waitUntil: "domcontentloaded", timeout: 90000 });
   await page.waitForTimeout(10000);
 
-  // The catalog is paginated/infinite-scrolling on the NVIDIA page.
+  // The catalog is paginated/infinite-scrolling on the NVIDIA page. Scrolling
+  // gives the page a chance to request additional result pages; all matching
+  // responses are collected above.
   let previousHeight = 0;
   for (let attempt = 0; attempt < 30; attempt += 1) {
     const height = await page.evaluate(() => document.body?.scrollHeight || 0);

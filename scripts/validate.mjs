@@ -1,5 +1,7 @@
 import { readFile } from "node:fs/promises";
 
+// This validator intentionally checks structure and safety invariants only.
+// It must be deterministic and must not contact external providers.
 const manifest = JSON.parse(await readFile("catalog/manifest.json", "utf8"));
 if (manifest.schemaVersion !== "1") throw new Error("Unsupported manifest schema");
 if (!Array.isArray(manifest.providers) || !manifest.providers.length) throw new Error("No providers configured");
