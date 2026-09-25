@@ -31,4 +31,4 @@ The extension should consume `catalog/manifest.json` first, then the provider fi
 
 ## GeForce NOW
 
-The initial provider is `geforce-now`. Its source is NVIDIA's public supported-game catalog endpoint. The source is not an official API contract, so the updater records source and update metadata and should fail closed if the response shape changes.
+The initial provider is `geforce-now`. Its updater uses Playwright to load NVIDIA's live games page and capture the catalog responses used by that page. The source is not an official API contract, so the updater records source and update metadata and fails closed if the response shape changes or the catalog is unexpectedly small.
