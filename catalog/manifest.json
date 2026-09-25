@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1",
+  "catalogVersion": "2026.09.25.1",
+  "updatedAt": "2026-09-25T00:00:00Z",
+  "providers": [
+    {
+      "id": "geforce-now",
+      "name": "GeForce NOW",
+      "file": "providers/geforce-now.json",
+      "status": "available"
+    }
+  ]
+}

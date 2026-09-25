@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/cloud-gaming-finder/catalog/schema.json",
+  "title": "Cloud Gaming Finder catalog",
+  "type": "object",
+  "required": ["schemaVersion", "provider", "updatedAt", "games"],
+  "properties": {
+    "schemaVersion": { "type": "string", "const": "1" },
+    "provider": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "source": { "type": "string", "format": "uri" },
+    "games": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "aliases", "platforms", "stores", "status"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string", "minLength": 1 },
+          "aliases": { "type": "array", "items": { "type": "string" } },
+          "platforms": { "type": "array", "items": { "type": "string" } },
+          "stores": { "type": "array", "items": { "type": "string" } },
+          "status": { "type": "string", "enum": ["available", "unavailable", "unknown"] },
+          "region": { "type": "string" },
+          "metadata": { "type": "object", "additionalProperties": true }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

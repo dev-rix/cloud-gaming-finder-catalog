@@ -1,0 +1,9 @@
+{
+  "name": "cloud-gaming-finder-catalog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:gfn": "node providers/geforce-now/update.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}
