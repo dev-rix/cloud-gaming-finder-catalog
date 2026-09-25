@@ -5,5 +5,8 @@
   "scripts": {
     "update:gfn": "node providers/geforce-now/update.mjs",
     "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
   }
 }

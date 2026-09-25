@@ -1,20 +1,27 @@
-import { readFile, writeFile } from "node:fs/promises";
-import { collectGames, dedupeGames } from "./normalize.mjs";
+import { writeFile } from "node:fs/promises";
+import { spawn } from "node:child_process";
 
-const source = "https://static.nvidiagrid.net/supported-public-game-list/locales/gfnpc-en-US.json";
-const response = await fetch(source, { headers: { "user-agent": "cloud-gaming-finder-catalog/1.0" } });
-if (!response.ok) throw new Error(`Catalog request failed: ${response.status}`);
+function runDiscovery() {
+  return new Promise((resolve, reject) => {
+    const child = spawn(process.execPath, ["providers/geforce-now/discover.mjs"], { stdio: ["ignore", "pipe", "inherit"] });
+    let output = "";
+    child.stdout.on("data", (chunk) => { output += chunk; });
+    child.on("error", reject);
+    child.on("close", (code) => {
+      if (code !== 0) return reject(new Error(`Live discovery exited with code ${code}`));
+      try { resolve(JSON.parse(output)); } catch (error) { reject(error); }
+    });
+  });
+}
 
-const raw = await response.json();
-const overrides = JSON.parse(await readFile(new URL("./overrides.json", import.meta.url), "utf8"));
-const games = dedupeGames([...collectGames(raw), ...(overrides.games || [])]);
-if (games.length < 1000) throw new Error(`Refusing to publish suspiciously small catalog: ${games.length}`);
+const discovered = await runDiscovery();
+const games = discovered.games;
 
 const output = {
   schemaVersion: "1",
   provider: "geforce-now",
-  updatedAt: new Date().toISOString(),
-  source,
+  updatedAt: discovered.updatedAt,
+  source: discovered.source,
   games
 };
 await writeFile("catalog/providers/geforce-now.json", `${JSON.stringify(output, null, 2)}\n`);
