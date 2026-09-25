@@ -20,6 +20,7 @@
           "aliases": { "type": "array", "items": { "type": "string" } },
           "platforms": { "type": "array", "items": { "type": "string" } },
           "stores": { "type": "array", "items": { "type": "string" } },
+          "storeIds": { "type": "object", "additionalProperties": { "type": "string" } },
           "status": { "type": "string", "enum": ["available", "unavailable", "unknown"] },
           "region": { "type": "string" },
           "metadata": { "type": "object", "additionalProperties": true }
