@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-09-25T16:40:26.907Z",
+  "updatedAt": "2026-09-25T16:49:14.551Z",
   "source": "https://static.nvidiagrid.net/supported-public-game-list/locales/gfnpc-en-US.json",
   "games": [
     {
@@ -25720,6 +25720,25 @@
         "normalizedTitle": "zombie army trilogy",
         "steamAppId": "301640",
         "gfnGameId": 18544411
+      }
+    },
+    {
+      "id": "alan-wake-2",
+      "title": "Alan Wake 2",
+      "aliases": [
+        "Alan Wake II"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "epic",
+        "humble"
+      ],
+      "status": "available",
+      "metadata": {
+        "source": "manual-verified",
+        "verifiedAt": "2026-09-25"
       }
     }
   ]

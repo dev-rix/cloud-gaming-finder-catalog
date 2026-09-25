@@ -1,4 +1,4 @@
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { collectGames, dedupeGames } from "./normalize.mjs";
 
 const source = "https://static.nvidiagrid.net/supported-public-game-list/locales/gfnpc-en-US.json";
@@ -6,7 +6,8 @@ const response = await fetch(source, { headers: { "user-agent": "cloud-gaming-fi
 if (!response.ok) throw new Error(`Catalog request failed: ${response.status}`);
 
 const raw = await response.json();
-const games = dedupeGames(collectGames(raw));
+const overrides = JSON.parse(await readFile(new URL("./overrides.json", import.meta.url), "utf8"));
+const games = dedupeGames([...collectGames(raw), ...(overrides.games || [])]);
 if (games.length < 1000) throw new Error(`Refusing to publish suspiciously small catalog: ${games.length}`);
 
 const output = {
