@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-09-26T20:18:18.453Z",
+  "updatedAt": "2026-09-27T14:37:24.632Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -89141,7 +89141,7 @@
       }
     },
     {
-      "title": "手撕道祖���脚踩大乘（Tao Ancestor's Vanquisher）",
+      "title": "手撕道祖，脚踩大乘（Tao Ancestor's Vanquisher）",
       "aliases": [],
       "platforms": [
         "pc"
