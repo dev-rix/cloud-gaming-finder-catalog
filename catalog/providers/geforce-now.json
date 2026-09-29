@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-09-27T14:37:24.632Z",
+  "updatedAt": "2026-09-29T15:30:56.921Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -1666,6 +1666,7 @@
         "pc"
       ],
       "stores": [
+        "GAIJIN",
         "STEAM"
       ],
       "status": "available",
@@ -3394,21 +3395,6 @@
     },
     {
       "title": "Among Ashes",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Among Ashes Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -10302,21 +10288,6 @@
       }
     },
     {
-      "title": "Bro Falls",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Bro, where is my head??? Demo",
       "aliases": [],
       "platforms": [
@@ -11495,21 +11466,6 @@
         "pc"
       ],
       "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Car Mechanic Simulator 2018",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "EPIC",
         "STEAM"
       ],
       "status": "available",
@@ -14761,21 +14717,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Console Shop Simulator",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -20471,21 +20412,6 @@
       }
     },
     {
-      "title": "Dog Man: Mission Impawsible",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Dog Man: Mission Impawsible Demo",
       "aliases": [],
       "platforms": [
@@ -21744,21 +21670,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Due Process",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -29736,21 +29647,6 @@
       }
     },
     {
-      "title": "Ghostrunner 2",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "EPIC",
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "READY_TO_PLAY"
-      }
-    },
-    {
       "title": "Ghostrunner 2 Demo",
       "aliases": [],
       "platforms": [
@@ -29945,21 +29841,6 @@
     },
     {
       "title": "Gluon",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Glyphica: Typing Survival",
       "aliases": [],
       "platforms": [
         "pc"
@@ -42611,21 +42492,6 @@
     },
     {
       "title": "Mai: Child of Ages",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Mail Time",
       "aliases": [],
       "platforms": [
         "pc"
@@ -77588,7 +77454,8 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "READY_TO_PLAY"
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -77602,7 +77469,8 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "READY_TO_PLAY"
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -79270,22 +79138,6 @@
       ],
       "stores": [
         "EPIC",
-        "STEAM",
-        "XBOX"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Tony Hawk's™ Pro Skater™ 3 + 4",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "BATTLENET",
         "STEAM",
         "XBOX"
       ],
