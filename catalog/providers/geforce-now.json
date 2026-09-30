@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-09-29T15:30:56.921Z",
+  "updatedAt": "2026-09-30T15:45:22.042Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -3395,6 +3395,21 @@
     },
     {
       "title": "Among Ashes",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Among Ashes Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -9534,6 +9549,21 @@
       }
     },
     {
+      "title": "Boltz Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Bomb Rush Cyberfunk",
       "aliases": [],
       "platforms": [
@@ -10037,6 +10067,21 @@
       }
     },
     {
+      "title": "Breakout Garage",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Breath of Fire IV",
       "aliases": [],
       "platforms": [
@@ -10274,6 +10319,21 @@
     },
     {
       "title": "Britannia",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Bro Falls",
       "aliases": [],
       "platforms": [
         "pc"
@@ -11474,6 +11534,21 @@
       }
     },
     {
+      "title": "Car Mechanic Simulator 2018",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "EPIC",
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Car Mechanic Simulator 2021",
       "aliases": [],
       "platforms": [
@@ -11698,6 +11773,21 @@
     },
     {
       "title": "Caribbean Frontier",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Caribbean Side Quests",
       "aliases": [],
       "platforms": [
         "pc"
@@ -13961,6 +14051,21 @@
       }
     },
     {
+      "title": "Clive Barker's Hellraiser: Revival Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Close to the Sun",
       "aliases": [],
       "platforms": [
@@ -14720,6 +14825,21 @@
       }
     },
     {
+      "title": "Console Shop Simulator",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Console Shop Simulator Demo",
       "aliases": [],
       "platforms": [
@@ -14908,6 +15028,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "CONTROL Resonant",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -15983,6 +16118,21 @@
     },
     {
       "title": "Crow Country",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Crown Of Hispania",
       "aliases": [],
       "platforms": [
         "pc"
@@ -19677,6 +19827,21 @@
       }
     },
     {
+      "title": "Dimraeth",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Dinkum",
       "aliases": [],
       "platforms": [
@@ -20412,6 +20577,21 @@
       }
     },
     {
+      "title": "Dog Man: Mission Impawsible",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Dog Man: Mission Impawsible Demo",
       "aliases": [],
       "platforms": [
@@ -21053,7 +21233,7 @@
       }
     },
     {
-      "title": "Dragon Age™: Inquisition - Game of the Year Edition",
+      "title": "Dragon Age™: The Veilguard",
       "aliases": [],
       "platforms": [
         "pc"
@@ -21068,7 +21248,7 @@
       }
     },
     {
-      "title": "Dragon Age™: The Veilguard",
+      "title": "Dragon Age��: Inquisition - Game of the Year Edition",
       "aliases": [],
       "platforms": [
         "pc"
@@ -21080,6 +21260,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Dragon Shelter",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -21195,6 +21390,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "DrainSim",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -21542,6 +21752,21 @@
       }
     },
     {
+      "title": "Drone Sector",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Drone Swarm",
       "aliases": [],
       "platforms": [
@@ -21670,6 +21895,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Due Process",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -24883,6 +25123,20 @@
       }
     },
     {
+      "title": "Everything is Crab: The Animal Evolution Roguelite",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Evil Dead: The Game",
       "aliases": [],
       "platforms": [
@@ -25032,6 +25286,21 @@
     },
     {
       "title": "Evolings",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Ex Sanguis",
       "aliases": [],
       "platforms": [
         "pc"
@@ -25872,6 +26141,21 @@
       }
     },
     {
+      "title": "False Hero",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Family Man",
       "aliases": [],
       "platforms": [
@@ -26267,6 +26551,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Farming Camp",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -26851,6 +27150,21 @@
     },
     {
       "title": "Fire Dogs",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Fire Field",
       "aliases": [],
       "platforms": [
         "pc"
@@ -29617,6 +29931,21 @@
       }
     },
     {
+      "title": "GHOSTED",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Ghostlore",
       "aliases": [],
       "platforms": [
@@ -29633,6 +29962,21 @@
     },
     {
       "title": "Ghostrunner",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "EPIC",
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Ghostrunner 2",
       "aliases": [],
       "platforms": [
         "pc"
@@ -29855,6 +30199,21 @@
       }
     },
     {
+      "title": "Glyphica: Typing Survival",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Go Mecha Ball",
       "aliases": [],
       "platforms": [
@@ -29945,6 +30304,21 @@
     },
     {
       "title": "GOBBLE",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "GOBBLE Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -30761,6 +31135,21 @@
       }
     },
     {
+      "title": "Gravebound",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Gravel",
       "aliases": [],
       "platforms": [
@@ -30792,6 +31181,21 @@
     },
     {
       "title": "Graveyard Keeper",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Graveyard Keeper 2",
       "aliases": [],
       "platforms": [
         "pc"
@@ -32060,6 +32464,21 @@
     },
     {
       "title": "Hands of Necromancy II",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Happy's Humble Burger Cult",
       "aliases": [],
       "platforms": [
         "pc"
@@ -39736,6 +40155,21 @@
       }
     },
     {
+      "title": "Last Will",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Last Word",
       "aliases": [],
       "platforms": [
@@ -40205,6 +40639,21 @@
       "status": "available",
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -42506,6 +42955,21 @@
       }
     },
     {
+      "title": "Mail Time",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Main Assembly",
       "aliases": [],
       "platforms": [
@@ -43402,6 +43866,7 @@
         "pc"
       ],
       "stores": [
+        "EPIC",
         "STEAM"
       ],
       "status": "available",
@@ -44584,7 +45049,36 @@
       }
     },
     {
+      "title": "Minecraft Dungeons II",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "XBOX"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "MineMogul",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Miner Shop Simulator Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -46251,6 +46745,21 @@
     },
     {
       "title": "Mr. Prepper: Prologue",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "MR. RECORDS Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -48251,6 +48760,21 @@
       }
     },
     {
+      "title": "Nivalis",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "No Man's Sky",
       "aliases": [],
       "platforms": [
@@ -48916,6 +49440,21 @@
     },
     {
       "title": "Obliteracers",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Obscurity: Unknown Threat",
       "aliases": [],
       "platforms": [
         "pc"
@@ -50016,6 +50555,21 @@
       }
     },
     {
+      "title": "Order Automatica",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Order of Battle: World War II",
       "aliases": [],
       "platforms": [
@@ -50046,6 +50600,21 @@
     },
     {
       "title": "Order of War™",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Orgynizer",
       "aliases": [],
       "platforms": [
         "pc"
@@ -55262,6 +55831,21 @@
       }
     },
     {
+      "title": "Put Your Toys Away Together! Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Puzzles For Clef",
       "aliases": [],
       "platforms": [
@@ -55353,6 +55937,21 @@
     },
     {
       "title": "QANGA",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Qliphah in Providence's Shadow",
       "aliases": [],
       "platforms": [
         "pc"
@@ -55563,7 +56162,37 @@
       }
     },
     {
+      "title": "Quasimorph",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Queen's Domain Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Quern - Undying Thoughts",
       "aliases": [],
       "platforms": [
         "pc"
@@ -57731,6 +58360,21 @@
       }
     },
     {
+      "title": "ReStory: Chill Electronics Repairs",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Retrace",
       "aliases": [],
       "platforms": [
@@ -58622,6 +59266,21 @@
       }
     },
     {
+      "title": "Rivage",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Rivage Demo",
       "aliases": [],
       "platforms": [
@@ -58874,6 +59533,20 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Roadside Research",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -59323,6 +59996,21 @@
     },
     {
       "title": "Rooftops & Alleys: The Parkour Game",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Roombattle",
       "aliases": [],
       "platforms": [
         "pc"
@@ -63360,6 +64048,21 @@
       }
     },
     {
+      "title": "SiN Reloaded",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "SiN Reloaded Demo",
       "aliases": [],
       "platforms": [
@@ -64732,6 +65435,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Sockpuppet Noir",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -66378,6 +67096,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "SpiritVale",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -68446,6 +69179,20 @@
       ],
       "stores": [
         "EPIC"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Stick It to the Stickman",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
       ],
       "status": "available",
       "metadata": {
@@ -71828,6 +72575,21 @@
       }
     },
     {
+      "title": "Tattoo Shop Simulator",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Tattoo Tycoon",
       "aliases": [],
       "platforms": [
@@ -71990,6 +72752,21 @@
     },
     {
       "title": "Tears of Avia",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Tearscape",
       "aliases": [],
       "platforms": [
         "pc"
@@ -73772,6 +74549,21 @@
       }
     },
     {
+      "title": "The Economy Bros",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
       "aliases": [],
       "platforms": [
@@ -74504,6 +75296,21 @@
     },
     {
       "title": "The Hollow Road: Prologue",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "The Hollowing Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -77442,7 +78249,7 @@
       }
     },
     {
-      "title": "The Witcher® 3: Wild Hunt",
+      "title": "The Witcher® 3: Wild Hunt — Remastered",
       "aliases": [],
       "platforms": [
         "pc"
@@ -77459,7 +78266,7 @@
       }
     },
     {
-      "title": "The Witcher® 3: Wild Hunt - Complete Edition",
+      "title": "The Witcher® 3: Wild Hunt — Remastered",
       "aliases": [],
       "platforms": [
         "pc"
@@ -77888,6 +78695,21 @@
     },
     {
       "title": "Thrice Entombed Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Thrifty Business",
       "aliases": [],
       "platforms": [
         "pc"
@@ -79138,6 +79960,22 @@
       ],
       "stores": [
         "EPIC",
+        "STEAM",
+        "XBOX"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Tony Hawk's™ Pro Skater™ 3 + 4",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "BATTLENET",
         "STEAM",
         "XBOX"
       ],
@@ -80988,21 +81826,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Trove",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -83769,6 +84592,21 @@
     },
     {
       "title": "Voodolls",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Voodoo Detective",
       "aliases": [],
       "platforms": [
         "pc"
