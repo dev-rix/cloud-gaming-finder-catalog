@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-09-30T15:45:22.042Z",
+  "updatedAt": "2026-10-01T16:11:41.099Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -8048,6 +8048,21 @@
       }
     },
     {
+      "title": "Better Chaos",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Better Mart Simulator",
       "aliases": [],
       "platforms": [
@@ -10127,6 +10142,21 @@
     },
     {
       "title": "Brewmaster: Beer Brewing Simulator",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Bribe The Brave Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -18293,8 +18323,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -21233,7 +21262,7 @@
       }
     },
     {
-      "title": "Dragon Age™: The Veilguard",
+      "title": "Dragon Age™: Inquisition - Game of the Year Edition",
       "aliases": [],
       "platforms": [
         "pc"
@@ -21248,7 +21277,7 @@
       }
     },
     {
-      "title": "Dragon Age��: Inquisition - Game of the Year Edition",
+      "title": "Dragon Age™: The Veilguard",
       "aliases": [],
       "platforms": [
         "pc"
@@ -26435,6 +26464,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Farewell North",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -31918,6 +31962,21 @@
       }
     },
     {
+      "title": "Gundrobe: an Incremental Gun Builder",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Gunfire Reborn",
       "aliases": [],
       "platforms": [
@@ -34958,21 +35017,6 @@
       }
     },
     {
-      "title": "HOT WHEELS™ Infinite Rush",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Hotel Architect",
       "aliases": [],
       "platforms": [
@@ -37830,6 +37874,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "JYSTICE Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -48760,7 +48819,7 @@
       }
     },
     {
-      "title": "Nivalis",
+      "title": "Nivalis Nights",
       "aliases": [],
       "platforms": [
         "pc"
@@ -65809,6 +65868,21 @@
       }
     },
     {
+      "title": "Songs of Glimmerwick",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Songs of Silence",
       "aliases": [],
       "platforms": [
@@ -81028,6 +81102,21 @@
       }
     },
     {
+      "title": "Train Station Tycoon",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Train Station Tycoon Demo",
       "aliases": [],
       "platforms": [
@@ -81412,6 +81501,21 @@
     },
     {
       "title": "TRIBES 3: Rivals",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Tricky Madness",
       "aliases": [],
       "platforms": [
         "pc"
@@ -86648,6 +86752,20 @@
       ],
       "stores": [
         "EPIC",
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Wild West Pioneers",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
         "STEAM"
       ],
       "status": "available",
