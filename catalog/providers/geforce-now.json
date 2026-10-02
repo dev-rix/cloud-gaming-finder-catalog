@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-01T16:11:41.099Z",
+  "updatedAt": "2026-10-02T15:33:00.391Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -9751,8 +9751,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -23569,6 +23568,21 @@
       }
     },
     {
+      "title": "Elta: Defy All Gods - Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Elypse",
       "aliases": [],
       "platforms": [
@@ -29619,6 +29633,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "XBOX"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -44238,8 +44267,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -53725,7 +53753,8 @@
       ],
       "stores": [
         "EPIC",
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
