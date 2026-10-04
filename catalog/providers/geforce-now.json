@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-03T14:11:37.924Z",
+  "updatedAt": "2026-10-04T14:42:25.244Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -18322,7 +18322,8 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "READY_TO_PLAY"
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -29642,6 +29643,7 @@
         "pc"
       ],
       "stores": [
+        "STEAM",
         "XBOX"
       ],
       "status": "available",
