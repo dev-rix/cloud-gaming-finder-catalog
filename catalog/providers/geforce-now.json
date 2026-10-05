@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-04T14:42:25.244Z",
+  "updatedAt": "2026-10-05T18:10:19.982Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -49411,6 +49411,21 @@
       }
     },
     {
+      "title": "Nuclear Design Bureau",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Nuclear Epoch",
       "aliases": [],
       "platforms": [
@@ -50690,6 +50705,21 @@
     },
     {
       "title": "Order of War™",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Ore Bastards",
       "aliases": [],
       "platforms": [
         "pc"
@@ -78361,6 +78391,7 @@
         "pc"
       ],
       "stores": [
+        "BATTLENET",
         "EPIC",
         "GOG",
         "STEAM"
@@ -89458,7 +89489,7 @@
       }
     },
     {
-      "title": "ZERO PARADES: For Dead Spies",
+      "title": "ZERO PARADES: Director's Cut",
       "aliases": [],
       "platforms": [
         "pc"
