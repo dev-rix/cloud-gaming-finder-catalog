@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-05T18:10:19.982Z",
+  "updatedAt": "2026-10-06T15:49:02.980Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -23643,6 +23643,21 @@
       }
     },
     {
+      "title": "Ember's Verge",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Embers of Mirrim",
       "aliases": [],
       "platforms": [
@@ -44856,6 +44871,21 @@
       }
     },
     {
+      "title": "Microlandia",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Micron",
       "aliases": [],
       "platforms": [
@@ -50956,6 +50986,21 @@
     },
     {
       "title": "Our World Is Ended.",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Out and About",
       "aliases": [],
       "platforms": [
         "pc"
