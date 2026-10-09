@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-08T16:12:44.608Z",
+  "updatedAt": "2026-10-09T15:56:43.014Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -8944,6 +8944,21 @@
       }
     },
     {
+      "title": "BLASTARD! Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "BlazBlue: Cross Tag Battle",
       "aliases": [],
       "platforms": [
@@ -14125,6 +14140,20 @@
       }
     },
     {
+      "title": "Clive Barker's Hellraiser: Revival",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Clive Barker's Hellraiser: Revival Demo",
       "aliases": [],
       "platforms": [
@@ -18280,6 +18309,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Deadzone Rogue 2 Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -28190,6 +28234,20 @@
       }
     },
     {
+      "title": "Forever Ago",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Forever Skies",
       "aliases": [],
       "platforms": [
@@ -31355,8 +31413,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -33386,6 +33443,21 @@
     },
     {
       "title": "Heistfest",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Hela Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -50824,6 +50896,20 @@
       }
     },
     {
+      "title": "Order of the Sinking Star",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Order of the Sinking Star Demo",
       "aliases": [],
       "platforms": [
@@ -53186,6 +53272,21 @@
       "status": "available",
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Permafrost",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -63028,6 +63129,21 @@
       }
     },
     {
+      "title": "Shadowstone Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Shadwen",
       "aliases": [],
       "platforms": [
@@ -63044,6 +63160,21 @@
     },
     {
       "title": "Shady Part of Me",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Shake it Co!",
       "aliases": [],
       "platforms": [
         "pc"
@@ -64173,6 +64304,20 @@
     },
     {
       "title": "Silver Chains",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Silver Pines",
       "aliases": [],
       "platforms": [
         "pc"
@@ -65898,7 +66043,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
+        "playType": "READY_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -82785,6 +82930,20 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Tyr",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
