@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-09T15:56:43.014Z",
+  "updatedAt": "2026-10-10T15:07:29.124Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -4573,6 +4573,21 @@
       }
     },
     {
+      "title": "ARENA an Age of Barbarians story",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Arena Renovation",
       "aliases": [],
       "platforms": [
@@ -5969,6 +5984,21 @@
       }
     },
     {
+      "title": "ATOM RPG 2 Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "ATOM RPG Trudograd",
       "aliases": [],
       "platforms": [
@@ -6522,6 +6552,21 @@
     },
     {
       "title": "A列車で行こう8",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "B.A.D Battle Armor Division",
       "aliases": [],
       "platforms": [
         "pc"
@@ -8945,6 +8990,21 @@
     },
     {
       "title": "BLASTARD! Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Blaster!",
       "aliases": [],
       "platforms": [
         "pc"
@@ -32241,6 +32301,21 @@
       }
     },
     {
+      "title": "Guys with Magnets",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "GWENT®: The Witcher Card Game",
       "aliases": [],
       "platforms": [
@@ -38296,6 +38371,21 @@
       }
     },
     {
+      "title": "Karate Master 2 Knock Down Blow",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Kardboard Kings: Card Shop Simulator",
       "aliases": [],
       "platforms": [
@@ -43638,6 +43728,21 @@
       }
     },
     {
+      "title": "Mars Clicker Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Mars First Logistics",
       "aliases": [],
       "platforms": [
@@ -46594,21 +46699,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Mortal Shell II - Open Beta",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -64375,6 +64465,21 @@
       }
     },
     {
+      "title": "Simhaus: Football",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Simply Puzzles: Codewords",
       "aliases": [],
       "platforms": [
@@ -66019,6 +66124,21 @@
     },
     {
       "title": "Solargene",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Solarpunk™",
       "aliases": [],
       "platforms": [
         "pc"
@@ -82441,6 +82561,21 @@
     },
     {
       "title": "Truck Racer",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Truckful",
       "aliases": [],
       "platforms": [
         "pc"
