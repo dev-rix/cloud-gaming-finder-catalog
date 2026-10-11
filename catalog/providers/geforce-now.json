@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-10T15:07:29.124Z",
+  "updatedAt": "2026-10-11T15:26:40.823Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -11348,7 +11348,7 @@
       }
     },
     {
-      "title": "Call of the Wild: The Angler™",
+      "title": "Call of the Wild: The Angler��",
       "aliases": [],
       "platforms": [
         "pc"
@@ -18486,8 +18486,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
