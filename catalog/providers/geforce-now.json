@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-11T15:26:40.823Z",
+  "updatedAt": "2026-10-12T18:46:17.331Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -11348,7 +11348,7 @@
       }
     },
     {
-      "title": "Call of the Wild: The Angler��",
+      "title": "Call of the Wild: The Angler™",
       "aliases": [],
       "platforms": [
         "pc"
@@ -18486,7 +18486,8 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "READY_TO_PLAY"
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -23852,6 +23853,21 @@
     },
     {
       "title": "Embr",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Embracelet",
       "aliases": [],
       "platforms": [
         "pc"
@@ -45361,6 +45377,21 @@
       }
     },
     {
+      "title": "Milkmaid of the Milky Way",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Millennia",
       "aliases": [],
       "platforms": [
@@ -50584,6 +50615,21 @@
       }
     },
     {
+      "title": "One Night in Kawami",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "One Troll Army",
       "aliases": [],
       "platforms": [
@@ -55597,6 +55643,21 @@
     },
     {
       "title": "PRO FISHING SIMULATOR",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Pro Football",
       "aliases": [],
       "platforms": [
         "pc"
@@ -78853,7 +78914,8 @@
         "BATTLENET",
         "EPIC",
         "GOG",
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
@@ -81126,6 +81188,21 @@
     },
     {
       "title": "Tower 57",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Tower Networking Inc.",
       "aliases": [],
       "platforms": [
         "pc"
@@ -87950,6 +88027,21 @@
     },
     {
       "title": "Woodle Tree Adventures",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Woodo",
       "aliases": [],
       "platforms": [
         "pc"
