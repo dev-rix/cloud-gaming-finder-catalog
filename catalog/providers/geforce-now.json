@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-12T18:46:17.331Z",
+  "updatedAt": "2026-10-13T16:48:23.911Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -2609,6 +2609,21 @@
       }
     },
     {
+      "title": "Alabaster Dawn",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Alaloth - Champions of The Four Kingdoms",
       "aliases": [],
       "platforms": [
@@ -2993,6 +3008,21 @@
     },
     {
       "title": "All-Star Fruit Racing",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Allogloom",
       "aliases": [],
       "platforms": [
         "pc"
@@ -21808,6 +21838,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Dressmaker",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -49222,21 +49267,6 @@
       }
     },
     {
-      "title": "No one lives in heaven",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "No One Survived",
       "aliases": [],
       "platforms": [
@@ -54327,6 +54357,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Planet Zoo 2",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
