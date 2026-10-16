@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-15T14:02:55.463Z",
+  "updatedAt": "2026-10-16T13:49:41.485Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -3634,6 +3634,21 @@
       }
     },
     {
+      "title": "Angel Investor Simulator™ Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Angelo Skate Away",
       "aliases": [],
       "platforms": [
@@ -4230,6 +4245,21 @@
     },
     {
       "title": "Approximately Up",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Appulse Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -28115,6 +28145,21 @@
     },
     {
       "title": "Fogpiercer Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Folded Fables: Tidy Up The Dragon Hoard",
       "aliases": [],
       "platforms": [
         "pc"
@@ -54137,6 +54182,21 @@
       }
     },
     {
+      "title": "Pit Panic",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Pix the Cat",
       "aliases": [],
       "platforms": [
@@ -58337,6 +58397,21 @@
       }
     },
     {
+      "title": "Refuel Together Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Regiments",
       "aliases": [],
       "platforms": [
@@ -61862,6 +61937,21 @@
       }
     },
     {
+      "title": "Satelital Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Satellite Rush",
       "aliases": [],
       "platforms": [
@@ -62963,6 +63053,21 @@
     },
     {
       "title": "Serial Cleaner",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Serious Bara",
       "aliases": [],
       "platforms": [
         "pc"
@@ -74309,6 +74414,21 @@
       }
     },
     {
+      "title": "The 9th Dragon Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Abbess Garden",
       "aliases": [],
       "platforms": [
@@ -84422,7 +84542,8 @@
         "pc"
       ],
       "stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
