@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-16T13:49:41.485Z",
+  "updatedAt": "2026-10-17T12:47:34.713Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -8345,6 +8345,21 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Beyond These Stars",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM",
+        "XBOX"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -31702,6 +31717,21 @@
       }
     },
     {
+      "title": "Gravity Circuit 2 Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Gravity Heroes",
       "aliases": [],
       "platforms": [
@@ -33166,6 +33196,21 @@
     },
     {
       "title": "Haunt Chaser",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Haunted Heist",
       "aliases": [],
       "platforms": [
         "pc"
@@ -78226,6 +78271,21 @@
       }
     },
     {
+      "title": "The Rug Racket Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Samaritan Paradox",
       "aliases": [],
       "platforms": [
@@ -79991,6 +80051,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Tinker Islands Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
