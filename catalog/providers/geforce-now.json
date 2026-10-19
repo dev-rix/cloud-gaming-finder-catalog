@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-18T13:05:16.999Z",
+  "updatedAt": "2026-10-19T16:18:54.915Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -4100,6 +4100,21 @@
     },
     {
       "title": "Anymaker Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Anywhere RPG Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -8422,6 +8437,21 @@
       }
     },
     {
+      "title": "Big Dig",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Big Dig Demo",
       "aliases": [],
       "platforms": [
@@ -11877,6 +11907,21 @@
     },
     {
       "title": "Caravan SandWitch",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Caravanserai Simulator Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -26440,6 +26485,21 @@
       }
     },
     {
+      "title": "Fallen Sword II Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Fallen Symphony Demo",
       "aliases": [],
       "platforms": [
@@ -28086,6 +28146,21 @@
     },
     {
       "title": "Fluffy Sailors Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "FluxWerks",
       "aliases": [],
       "platforms": [
         "pc"
@@ -50556,6 +50631,21 @@
       }
     },
     {
+      "title": "OMEA Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "OMEGA: The Beginning - Episode 1",
       "aliases": [],
       "platforms": [
@@ -54341,6 +54431,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Plague Inc: The Board Game: The Video Game Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -66630,6 +66735,21 @@
       }
     },
     {
+      "title": "Sombie Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "SOMBRAS: negative frames Demo",
       "aliases": [],
       "platforms": [
@@ -70569,6 +70689,21 @@
     },
     {
       "title": "Strange Encounter",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Strange Horticulture",
       "aliases": [],
       "platforms": [
         "pc"
@@ -82890,6 +83025,21 @@
       }
     },
     {
+      "title": "Tropico 7 - Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Troublemaker",
       "aliases": [],
       "platforms": [
@@ -84063,6 +84213,21 @@
       }
     },
     {
+      "title": "Underground: Chapter 1",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Underspace",
       "aliases": [],
       "platforms": [
@@ -84881,21 +85046,6 @@
     },
     {
       "title": "Vanguard Galaxy",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Vanguard's Descent Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -86239,6 +86389,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Warding Witches",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
