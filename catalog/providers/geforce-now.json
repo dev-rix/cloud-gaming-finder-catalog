@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-19T16:18:54.915Z",
+  "updatedAt": "2026-10-20T14:11:39.602Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -4615,6 +4615,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Architecture & Design",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -19205,6 +19220,21 @@
       }
     },
     {
+      "title": "Defentrix",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Deliver Us Mars",
       "aliases": [],
       "platforms": [
@@ -23419,6 +23449,21 @@
       }
     },
     {
+      "title": "Ecstatica Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Edge Of Eternity",
       "aliases": [],
       "platforms": [
@@ -27346,6 +27391,21 @@
       }
     },
     {
+      "title": "Fear Tall Grass Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Fear The Wolves",
       "aliases": [],
       "platforms": [
@@ -30266,6 +30326,21 @@
     },
     {
       "title": "Genome Guardian 2",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Genome Guardian 2 Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -48452,6 +48527,21 @@
     },
     {
       "title": "Neighbours back From Hell",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Nekome: Nazi Hunter Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -85060,6 +85150,21 @@
       }
     },
     {
+      "title": "Vanguard's Descent Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Vartio",
       "aliases": [],
       "platforms": [
@@ -85176,6 +85281,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Velocity - Midnight Run Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -87537,6 +87657,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Werewolf Hunter: Night of Horror Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
