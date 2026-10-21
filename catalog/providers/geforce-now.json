@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-20T14:11:39.602Z",
+  "updatedAt": "2026-10-21T14:24:29.889Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -4619,6 +4619,21 @@
     },
     {
       "title": "Architecture & Design",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Architecture & Design Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -36221,6 +36236,21 @@
     },
     {
       "title": "Hunting Simulator 2",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Hunting Simulator 3 Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -76580,6 +76610,21 @@
     },
     {
       "title": "The Hungry Fly",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "The Idle Undead Demo",
       "aliases": [],
       "platforms": [
         "pc"
