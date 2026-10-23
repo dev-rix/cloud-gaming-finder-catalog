@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-22T14:25:32.866Z",
+  "updatedAt": "2026-10-23T14:08:24.357Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -15395,6 +15395,7 @@
         "pc"
       ],
       "stores": [
+        "EPIC",
         "STEAM"
       ],
       "status": "available",
@@ -16301,6 +16302,7 @@
         "pc"
       ],
       "stores": [
+        "EPIC",
         "STEAM",
         "XBOX"
       ],
@@ -19394,6 +19396,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "DEMONS' NIGHT FEVER",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -27621,6 +27638,21 @@
       ],
       "stores": [
         "EPIC"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "FINAL FANTASY RESONANCE",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
@@ -48159,6 +48191,21 @@
       }
     },
     {
+      "title": "Mycelium: The Silent Contract",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Mycopunk",
       "aliases": [],
       "platforms": [
@@ -54845,7 +54892,8 @@
         "pc"
       ],
       "stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
