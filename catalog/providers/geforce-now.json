@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-23T14:08:24.357Z",
+  "updatedAt": "2026-10-24T13:11:17.476Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -75184,6 +75184,21 @@
     },
     {
       "title": "The Bloodline",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "The Boss Gangster: Criminal Empire",
       "aliases": [],
       "platforms": [
         "pc"
