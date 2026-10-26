@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-24T13:11:17.476Z",
+  "updatedAt": "2026-10-26T15:58:11.742Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -16478,7 +16478,7 @@
       }
     },
     {
-      "title": "Crossout",
+      "title": "Crossout Remastered",
       "aliases": [],
       "platforms": [
         "pc"
@@ -46810,6 +46810,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Monster Lab Simulator",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -80342,6 +80357,21 @@
     },
     {
       "title": "TIME BREAKER",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Time Commando",
       "aliases": [],
       "platforms": [
         "pc"
