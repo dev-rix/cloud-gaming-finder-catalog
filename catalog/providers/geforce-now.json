@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-28T15:48:48.231Z",
+  "updatedAt": "2026-10-29T15:56:54.436Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -2502,6 +2502,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Airport Contraband",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -54131,6 +54146,21 @@
       }
     },
     {
+      "title": "Phantom Blade Zero",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Phantom Brave PC",
       "aliases": [],
       "platforms": [
@@ -56335,6 +56365,21 @@
     },
     {
       "title": "Pro Football",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
       "aliases": [],
       "platforms": [
         "pc"
@@ -89282,6 +89327,20 @@
     },
     {
       "title": "World of Warcraft® Classic",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "BATTLENET"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "World of Warcraft®: Forever",
       "aliases": [],
       "platforms": [
         "pc"
