@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-29T15:56:54.436Z",
+  "updatedAt": "2026-10-30T15:42:29.147Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -6101,6 +6101,21 @@
       "status": "available",
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "ATMOSFAR",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -20346,8 +20361,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -22137,8 +22151,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -27780,6 +27793,21 @@
       }
     },
     {
+      "title": "Finals Week ✍🏻",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Find 101 Doomers",
       "aliases": [],
       "platforms": [
@@ -31725,7 +31753,7 @@
       }
     },
     {
-      "title": "Gothic® 3",
+      "title": "Gothic 3 Classic",
       "aliases": [],
       "platforms": [
         "pc"
@@ -33083,6 +33111,7 @@
         "pc"
       ],
       "stores": [
+        "EPIC",
         "STEAM"
       ],
       "status": "available",
@@ -34172,6 +34201,7 @@
         "pc"
       ],
       "stores": [
+        "EPIC",
         "STEAM"
       ],
       "status": "available",
@@ -36387,6 +36417,20 @@
       }
     },
     {
+      "title": "Hunting Simulator 3",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Hunting Simulator 3 Demo",
       "aliases": [],
       "platforms": [
@@ -37733,6 +37777,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Into the Crypt",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -59269,6 +59328,21 @@
       }
     },
     {
+      "title": "Remothered: Red Nun's Legacy",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Renaissance Kingdom Wars",
       "aliases": [],
       "platforms": [
@@ -63581,6 +63655,21 @@
     },
     {
       "title": "Serious Bara",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Serious Bara Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -78957,8 +79046,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
