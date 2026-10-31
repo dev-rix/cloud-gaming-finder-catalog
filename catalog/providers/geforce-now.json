@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-30T15:42:29.147Z",
+  "updatedAt": "2026-10-31T15:11:21.099Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -57134,6 +57134,21 @@
       }
     },
     {
+      "title": "Put Your Toys Away Together!",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Put Your Toys Away Together! Demo",
       "aliases": [],
       "platforms": [
@@ -83591,8 +83606,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
