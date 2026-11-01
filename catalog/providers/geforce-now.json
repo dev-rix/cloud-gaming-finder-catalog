@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-10-31T15:11:21.099Z",
+  "updatedAt": "2026-11-01T16:39:34.151Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -1023,6 +1023,21 @@
     },
     {
       "title": "A Painter's Tale: Curon, 1950",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "A Place for Every Potion",
       "aliases": [],
       "platforms": [
         "pc"
@@ -30919,6 +30934,21 @@
     },
     {
       "title": "Global Protocol: New World Order",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Global Protocol: New World Order Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -76319,6 +76349,21 @@
       }
     },
     {
+      "title": "The Electorate",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Ember Guardian",
       "aliases": [],
       "platforms": [
@@ -76365,6 +76410,21 @@
     },
     {
       "title": "The End: Inari's Quest",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "The Endless Pit",
       "aliases": [],
       "platforms": [
         "pc"
