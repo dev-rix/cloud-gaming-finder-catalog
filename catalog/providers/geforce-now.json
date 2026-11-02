@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-01T16:39:34.151Z",
+  "updatedAt": "2026-11-02T20:04:52.486Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -10516,6 +10516,21 @@
     },
     {
       "title": "Brick Breaker",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Brick by Brick: Tidy Up the Small Town!",
       "aliases": [],
       "platforms": [
         "pc"
@@ -44730,6 +44745,21 @@
       }
     },
     {
+      "title": "Mayday: The Survival Island",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Mayhem in Single Valley Demo",
       "aliases": [],
       "platforms": [
@@ -57522,6 +57552,20 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Queen's Domain",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -85806,6 +85850,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Velocity - Midnight Run",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
