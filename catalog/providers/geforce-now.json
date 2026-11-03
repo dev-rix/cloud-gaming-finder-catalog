@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-02T20:04:52.486Z",
+  "updatedAt": "2026-11-03T17:38:20.561Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -15793,6 +15793,21 @@
       }
     },
     {
+      "title": "Corpus et Spiritus",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Corridor Z",
       "aliases": [],
       "platforms": [
@@ -20247,6 +20262,21 @@
     },
     {
       "title": "Die by the Blade",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Diecast",
       "aliases": [],
       "platforms": [
         "pc"
@@ -36966,6 +36996,21 @@
       }
     },
     {
+      "title": "IfSunSets",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "IHF Handball Challenge 14",
       "aliases": [],
       "platforms": [
@@ -47762,6 +47807,36 @@
       }
     },
     {
+      "title": "Mr Chicken's Totally Ethical Farm!",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Mr Chicken's Totally Ethical Farm! Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Mr Toilet",
       "aliases": [],
       "platforms": [
@@ -49038,6 +49113,21 @@
       }
     },
     {
+      "title": "Neon Breaker: Endless Arcade",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Neon Chrome",
       "aliases": [],
       "platforms": [
@@ -49322,6 +49412,21 @@
     },
     {
       "title": "Never BreakUp",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Neverending Descent",
       "aliases": [],
       "platforms": [
         "pc"
@@ -76238,6 +76343,21 @@
       }
     },
     {
+      "title": "The Dream Machine: Chapter 1 & 2",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Dream Office",
       "aliases": [],
       "platforms": [
@@ -87301,6 +87421,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Warhammer 40,000: Dakka Squadron - Flyboyz Edition (Classic)",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
