@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-04T17:51:20.653Z",
+  "updatedAt": "2026-11-05T17:54:37.320Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -124,6 +124,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "007 First Light Free Starter Pack",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -1261,6 +1276,21 @@
     },
     {
       "title": "Aarklash: Legacy",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Abashed",
       "aliases": [],
       "platforms": [
         "pc"
@@ -13318,6 +13348,21 @@
       }
     },
     {
+      "title": "Chivalware",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Chocolate Factory",
       "aliases": [],
       "platforms": [
@@ -17085,21 +17130,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "CURE - A Hospital Simulator",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -22289,6 +22319,21 @@
       }
     },
     {
+      "title": "Drive UP: Together",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Droid Assault",
       "aliases": [],
       "platforms": [
@@ -27098,6 +27143,21 @@
     },
     {
       "title": "Farady Protocol Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Faraway",
       "aliases": [],
       "platforms": [
         "pc"
@@ -34194,6 +34254,21 @@
     },
     {
       "title": "Helheim Hassle",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Hell Clock",
       "aliases": [],
       "platforms": [
         "pc"
@@ -41352,21 +41427,6 @@
     },
     {
       "title": "Lead and Gold: Gangs of the Wild West",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Leaf it Alone",
       "aliases": [],
       "platforms": [
         "pc"
@@ -56663,21 +56723,6 @@
       }
     },
     {
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Professional Fishing",
       "aliases": [],
       "platforms": [
@@ -59460,6 +59505,21 @@
       }
     },
     {
+      "title": "Relic Hunters Legend",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Relic Hunters Zero: Remix",
       "aliases": [],
       "platforms": [
@@ -60081,6 +60141,21 @@
     },
     {
       "title": "Retro TV Tycoon Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "RetroSpace",
       "aliases": [],
       "platforms": [
         "pc"
@@ -80404,6 +80479,21 @@
       }
     },
     {
+      "title": "Theos: Cities Of Myth",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Therapy Simulator",
       "aliases": [],
       "platforms": [
@@ -82725,6 +82815,21 @@
     },
     {
       "title": "Townsmen - A Kingdom Rebuilt",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Townworks",
       "aliases": [],
       "platforms": [
         "pc"
@@ -85084,6 +85189,21 @@
     },
     {
       "title": "Underground: Chapter 1",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Underkeep",
       "aliases": [],
       "platforms": [
         "pc"
