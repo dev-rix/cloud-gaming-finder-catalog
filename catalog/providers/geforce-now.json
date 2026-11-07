@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-06T17:16:02.656Z",
+  "updatedAt": "2026-11-07T16:11:23.412Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -12356,6 +12356,21 @@
       }
     },
     {
+      "title": "Cascadou",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Cash Cleaner Simulator",
       "aliases": [],
       "platforms": [
@@ -15972,6 +15987,20 @@
     },
     {
       "title": "Counter-Strike: Source",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "County of Fortune",
       "aliases": [],
       "platforms": [
         "pc"
@@ -22496,6 +22525,21 @@
     },
     {
       "title": "DSS 2: War Industry",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Duck Detective: The Ghost of Glamping",
       "aliases": [],
       "platforms": [
         "pc"
@@ -29499,6 +29543,21 @@
     },
     {
       "title": "Friendly Steps",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Friends vs Friends",
       "aliases": [],
       "platforms": [
         "pc"
@@ -46276,6 +46335,21 @@
       }
     },
     {
+      "title": "Milkmaid of the Milky Way",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Millennia",
       "aliases": [],
       "platforms": [
@@ -54755,6 +54829,21 @@
       }
     },
     {
+      "title": "Phoenix Springs",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Phoenix Wright: Ace Attorney Trilogy",
       "aliases": [],
       "platforms": [
@@ -56488,6 +56577,21 @@
     },
     {
       "title": "Primarch",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Prime Monster",
       "aliases": [],
       "platforms": [
         "pc"
@@ -58672,6 +58776,21 @@
       }
     },
     {
+      "title": "Ravenous Devils",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Ravenous Horde",
       "aliases": [],
       "platforms": [
@@ -60240,6 +60359,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Retro TV Tycoon",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -79409,6 +79543,21 @@
       }
     },
     {
+      "title": "The Roottrees are Dead",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Rosebud Condominium",
       "aliases": [],
       "platforms": [
@@ -80758,6 +80907,21 @@
     },
     {
       "title": "Third Eye",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "This Game Socks",
       "aliases": [],
       "platforms": [
         "pc"
@@ -85321,7 +85485,7 @@
       }
     },
     {
-      "title": "Underkeep",
+      "title": "UnderMine",
       "aliases": [],
       "platforms": [
         "pc"
