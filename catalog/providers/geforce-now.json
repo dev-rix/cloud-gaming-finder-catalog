@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-08T16:33:14.079Z",
+  "updatedAt": "2026-11-09T20:31:34.876Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -13692,6 +13692,21 @@
       }
     },
     {
+      "title": "Cinema Theater Tycoon",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "CipherCraft: Cyber Guardian Introduction",
       "aliases": [],
       "platforms": [
@@ -14768,6 +14783,21 @@
     },
     {
       "title": "Codename CURE II",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "CoffeeShop Simulator",
       "aliases": [],
       "platforms": [
         "pc"
@@ -20289,6 +20319,21 @@
       }
     },
     {
+      "title": "Dicealot",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Dicey Dungeons",
       "aliases": [],
       "platforms": [
@@ -22525,6 +22570,21 @@
     },
     {
       "title": "DSS 2: War Industry",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Dub Party",
       "aliases": [],
       "platforms": [
         "pc"
@@ -31320,6 +31380,21 @@
     },
     {
       "title": "GOBBLE Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Gobble Inn Demo",
       "aliases": [],
       "platforms": [
         "pc"
