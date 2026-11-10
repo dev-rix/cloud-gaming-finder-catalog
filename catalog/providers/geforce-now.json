@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-09T20:31:34.876Z",
+  "updatedAt": "2026-11-10T17:33:57.847Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -10146,6 +10146,21 @@
     },
     {
       "title": "Boomerang Fu",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Booster Pack Heroes",
       "aliases": [],
       "platforms": [
         "pc"
@@ -35504,6 +35519,21 @@
     },
     {
       "title": "Hills Of Glory 3D",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Hillthorn",
       "aliases": [],
       "platforms": [
         "pc"
