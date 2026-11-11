@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-10T17:33:57.847Z",
+  "updatedAt": "2026-11-11T17:46:17.323Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -5329,6 +5329,20 @@
       }
     },
     {
+      "title": "Ashes of the Singularity II",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Ashes of the Singularity: Escalation",
       "aliases": [],
       "platforms": [
@@ -7223,6 +7237,21 @@
     },
     {
       "title": "Bambas!",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Bandit the game",
       "aliases": [],
       "platforms": [
         "pc"
@@ -22437,6 +22466,21 @@
       }
     },
     {
+      "title": "Drive UP: Together Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Droid Assault",
       "aliases": [],
       "platforms": [
@@ -27433,21 +27477,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Farmer's Dynasty 2",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -42343,6 +42372,21 @@
       }
     },
     {
+      "title": "Liar's Bar",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Liberated",
       "aliases": [],
       "platforms": [
@@ -44732,6 +44776,21 @@
     },
     {
       "title": "Mark of the Ninja: Remastered",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Market Moe",
       "aliases": [],
       "platforms": [
         "pc"
@@ -47572,6 +47631,21 @@
     },
     {
       "title": "Moon Mystery",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Moon Sweepers",
       "aliases": [],
       "platforms": [
         "pc"
@@ -56518,6 +56592,21 @@
       }
     },
     {
+      "title": "Pray Your God!",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Predator: Hunting Grounds",
       "aliases": [],
       "platforms": [
@@ -56738,6 +56827,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Prinny Party: Going Overboard!",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -74952,6 +75056,21 @@
       }
     },
     {
+      "title": "Tax-Force",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Taxi Life: A City Driving Simulator",
       "aliases": [],
       "platforms": [
@@ -81012,6 +81131,21 @@
     },
     {
       "title": "Thief™ II: The Metal Age",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Thieves and Gold",
       "aliases": [],
       "platforms": [
         "pc"
@@ -87149,6 +87283,21 @@
       }
     },
     {
+      "title": "Void Reaver",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Void Reaver Demo",
       "aliases": [],
       "platforms": [
@@ -88265,6 +88414,20 @@
       ],
       "stores": [
         "EPIC",
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Warhammer Survivors",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
         "STEAM"
       ],
       "status": "available",
@@ -90690,6 +90853,20 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Worst Class Ever",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
