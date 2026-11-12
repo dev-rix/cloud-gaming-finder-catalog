@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-11T17:46:17.323Z",
+  "updatedAt": "2026-11-12T17:59:28.749Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -9953,6 +9953,21 @@
       }
     },
     {
+      "title": "Boltz",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Boltz Demo",
       "aliases": [],
       "platforms": [
@@ -17250,6 +17265,21 @@
       }
     },
     {
+      "title": "CURE - A Hospital Simulator FREE Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Curious Expedition 2",
       "aliases": [],
       "platforms": [
@@ -17465,6 +17495,7 @@
         "pc"
       ],
       "stores": [
+        "BATTLENET",
         "EPIC",
         "GOG",
         "STEAM"
@@ -18744,21 +18775,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Deadly Days: Roadtrip",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -29661,21 +29677,6 @@
       }
     },
     {
-      "title": "Friends vs Friends",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Frigato: Shadows of the Caribbean",
       "aliases": [],
       "platforms": [
@@ -32300,21 +32301,6 @@
       }
     },
     {
-      "title": "Graveyard Keeper",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Graveyard Keeper 2",
       "aliases": [],
       "platforms": [
@@ -32755,6 +32741,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "GroundInFlames",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -50552,6 +50553,36 @@
       }
     },
     {
+      "title": "Noble Fates",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Noble Fates Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Nobody - The Turnaround",
       "aliases": [],
       "platforms": [
@@ -56920,6 +56951,21 @@
     },
     {
       "title": "Pro Basketball Manager 2017",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Pro Basketball Manager 2027",
       "aliases": [],
       "platforms": [
         "pc"
@@ -66901,6 +66947,21 @@
       }
     },
     {
+      "title": "SkyInFlames",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Slashers",
       "aliases": [],
       "platforms": [
@@ -74685,6 +74746,21 @@
       }
     },
     {
+      "title": "Takeover 2",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Tale of Wuxia (侠客风云传)",
       "aliases": [],
       "platforms": [
@@ -74919,21 +74995,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Tape to Tape",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -88428,7 +88489,8 @@
         "pc"
       ],
       "stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
