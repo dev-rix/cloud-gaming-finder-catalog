@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-12T17:59:28.749Z",
+  "updatedAt": "2026-11-13T17:34:38.601Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -17498,7 +17498,8 @@
         "BATTLENET",
         "EPIC",
         "GOG",
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
@@ -18765,6 +18766,20 @@
     },
     {
       "title": "Deadliest Catch: The Game",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Deadly Days: Roadtrip",
       "aliases": [],
       "platforms": [
         "pc"
@@ -21339,21 +21354,6 @@
     },
     {
       "title": "Dog Man: Mission Impawsible Demo",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "Dogfight 1942",
       "aliases": [],
       "platforms": [
         "pc"
@@ -30729,6 +30729,21 @@
       }
     },
     {
+      "title": "GeForce 8800 GTX - 20 Years of a Legend",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Ultimate"
+      }
+    },
+    {
       "title": "Generation Zero",
       "aliases": [],
       "platforms": [
@@ -32301,6 +32316,20 @@
       }
     },
     {
+      "title": "Graveyard Keeper",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Graveyard Keeper 2",
       "aliases": [],
       "platforms": [
@@ -32416,6 +32445,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Grazed - Incremental Arcade",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -44447,6 +44491,20 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Main Sequence",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -63346,6 +63404,21 @@
       }
     },
     {
+      "title": "Satelital",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Satelital Demo",
       "aliases": [],
       "platforms": [
@@ -63541,6 +63614,21 @@
     },
     {
       "title": "Scathe",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Scawy Game",
       "aliases": [],
       "platforms": [
         "pc"
@@ -66682,6 +66770,21 @@
     },
     {
       "title": "Skew Pong",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Ski-E-O! Ski Resort Tycoon",
       "aliases": [],
       "platforms": [
         "pc"
@@ -74998,6 +75101,20 @@
       }
     },
     {
+      "title": "Tape to Tape",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Taphouse VR",
       "aliases": [],
       "platforms": [
@@ -79033,21 +79150,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "The Lord of the Rings: War in the North™ - Legacy Edition",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
