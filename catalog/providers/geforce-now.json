@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-14T16:27:35.713Z",
+  "updatedAt": "2026-11-15T16:52:18.652Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -22340,6 +22340,20 @@
       ],
       "stores": [
         "EPIC",
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "DreamWorks Shrek 2 Remastered",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
         "STEAM"
       ],
       "status": "available",
