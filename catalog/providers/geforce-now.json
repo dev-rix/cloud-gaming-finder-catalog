@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-15T16:52:18.652Z",
+  "updatedAt": "2026-11-16T20:05:55.120Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -3034,6 +3034,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "All Army Attack Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -16208,6 +16223,21 @@
       }
     },
     {
+      "title": "CRACK",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Crash Bandicoot™ 4: It's About Time",
       "aliases": [],
       "platforms": [
@@ -17702,6 +17732,21 @@
       }
     },
     {
+      "title": "DAMex : DArk Matter Exodus",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "DAMON and BABY",
       "aliases": [],
       "platforms": [
@@ -18927,6 +18972,21 @@
     },
     {
       "title": "Dear me, I was...",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Death at Fleming Manor",
       "aliases": [],
       "platforms": [
         "pc"
@@ -26549,6 +26609,21 @@
     },
     {
       "title": "Explodemon",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Extinction Cycle",
       "aliases": [],
       "platforms": [
         "pc"
@@ -36090,6 +36165,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Hood Warfare 2",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -56579,6 +56669,21 @@
       }
     },
     {
+      "title": "Powder Park: Ski Resort Builder",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Power Of Seasons",
       "aliases": [],
       "platforms": [
@@ -71860,6 +71965,21 @@
       }
     },
     {
+      "title": "StoneEra",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Stonemachia",
       "aliases": [],
       "platforms": [
@@ -76733,6 +76853,21 @@
       }
     },
     {
+      "title": "The Coin Keeper : Tidy up !",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Colonists",
       "aliases": [],
       "platforms": [
@@ -80715,6 +80850,21 @@
       }
     },
     {
+      "title": "The Tower Must Fall",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "The Town of Light",
       "aliases": [],
       "platforms": [
@@ -80746,6 +80896,21 @@
     },
     {
       "title": "The Tree",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "The Trivia Show",
       "aliases": [],
       "platforms": [
         "pc"
@@ -91123,6 +91288,21 @@
       }
     },
     {
+      "title": "Wrath and Retribution Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "WRATH: Aeon of Ruin",
       "aliases": [],
       "platforms": [
@@ -92816,6 +92996,21 @@
     },
     {
       "title": "Zombie Pinball",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Zombies Aren't Real",
       "aliases": [],
       "platforms": [
         "pc"
