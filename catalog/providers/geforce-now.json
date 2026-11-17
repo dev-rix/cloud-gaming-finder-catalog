@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-16T20:05:55.120Z",
+  "updatedAt": "2026-11-17T18:59:57.925Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -144,6 +144,21 @@
     },
     {
       "title": "10 Minute Tower",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "10 Second Mixtape",
       "aliases": [],
       "platforms": [
         "pc"
@@ -1144,6 +1159,21 @@
     },
     {
       "title": "A Story About My Uncle",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "A Story of Questions: Prologue",
       "aliases": [],
       "platforms": [
         "pc"
@@ -3695,6 +3725,21 @@
     },
     {
       "title": "Ancient Space",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Angel Investor Simulator™",
       "aliases": [],
       "platforms": [
         "pc"
@@ -11810,6 +11855,36 @@
       }
     },
     {
+      "title": "Can 'Em All",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Can 'Em All Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Can't Drive This",
       "aliases": [],
       "platforms": [
@@ -13752,6 +13827,21 @@
     },
     {
       "title": "CielChan: Anime Desktop AI Companion",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Cinema Owner: Prologue",
       "aliases": [],
       "platforms": [
         "pc"
@@ -31440,6 +31530,21 @@
     },
     {
       "title": "Go Mecha Ball",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Go Next!",
       "aliases": [],
       "platforms": [
         "pc"
@@ -59653,6 +59758,21 @@
       }
     },
     {
+      "title": "Recess of the Dead",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Recharge",
       "aliases": [],
       "platforms": [
@@ -65384,6 +65504,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Shatter",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -72212,6 +72347,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Storyteller",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -86240,6 +86390,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Unicorn Academy: Island of Magic",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
