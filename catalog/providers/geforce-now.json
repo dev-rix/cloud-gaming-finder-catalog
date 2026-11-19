@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-18T18:44:06.463Z",
+  "updatedAt": "2026-11-19T18:55:07.815Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -1188,6 +1188,21 @@
       }
     },
     {
+      "title": "A Thousand Stamps",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "A Total War Saga: TROY",
       "aliases": [],
       "platforms": [
@@ -1855,6 +1870,21 @@
     },
     {
       "title": "AETHERIS",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Aethermancer",
       "aliases": [],
       "platforms": [
         "pc"
@@ -7229,7 +7259,8 @@
       ],
       "stores": [
         "GOG",
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
@@ -10279,6 +10310,21 @@
       }
     },
     {
+      "title": "BOOMER",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Boomerang Fu",
       "aliases": [],
       "platforms": [
@@ -11267,7 +11313,7 @@
       }
     },
     {
-      "title": "Bulwark Evolution: Falconeer Chronicles",
+      "title": "Bulwark: Falconeer Chronicles",
       "aliases": [],
       "platforms": [
         "pc"
@@ -21777,6 +21823,7 @@
         "pc"
       ],
       "stores": [
+        "GOG",
         "STEAM"
       ],
       "status": "available",
@@ -21807,6 +21854,7 @@
       ],
       "stores": [
         "EPIC",
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -27283,6 +27331,7 @@
         "pc"
       ],
       "stores": [
+        "GOG",
         "STEAM"
       ],
       "status": "available",
@@ -27882,6 +27931,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Faroda",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -32480,7 +32544,37 @@
       }
     },
     {
+      "title": "Grand Theft Timeline",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Grandma, No!",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Granny Remake",
       "aliases": [],
       "platforms": [
         "pc"
@@ -32605,6 +32699,8 @@
         "pc"
       ],
       "stores": [
+        "EPIC",
+        "GOG",
         "STEAM"
       ],
       "status": "available",
@@ -36453,6 +36549,21 @@
       }
     },
     {
+      "title": "Hope in the City",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Horripilant",
       "aliases": [],
       "platforms": [
@@ -38029,6 +38140,7 @@
         "pc"
       ],
       "stores": [
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -43562,6 +43674,21 @@
       }
     },
     {
+      "title": "Lord of Undead",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Lord of Undead Demo",
       "aliases": [],
       "platforms": [
@@ -47373,21 +47500,6 @@
       }
     },
     {
-      "title": "Modern Naval Warfare",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Modulus: Factory Automation",
       "aliases": [],
       "platforms": [
@@ -48028,8 +48140,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -62258,6 +62369,21 @@
     },
     {
       "title": "Rocket Science",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Rocket Scrapyard",
       "aliases": [],
       "platforms": [
         "pc"
@@ -77726,6 +77852,7 @@
       ],
       "stores": [
         "EPIC",
+        "GOG",
         "STEAM",
         "XBOX"
       ],
@@ -86168,6 +86295,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Ultrapool",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
