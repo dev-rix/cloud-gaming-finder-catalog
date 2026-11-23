@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-21T17:12:22.269Z",
+  "updatedAt": "2026-11-23T21:56:45.752Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -9640,6 +9640,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Blood Rails Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -35349,6 +35364,21 @@
       }
     },
     {
+      "title": "Here Comes the Horde",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Heretic + Hexen",
       "aliases": [],
       "platforms": [
@@ -37749,21 +37779,6 @@
     },
     {
       "title": "IDUN Prologue - Frontline Survival",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
-      "title": "IfSunSets",
       "aliases": [],
       "platforms": [
         "pc"
@@ -50357,6 +50372,21 @@
     },
     {
       "title": "Neverinth",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Neverwake Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -67978,6 +68008,21 @@
       }
     },
     {
+      "title": "Smoke & Lottery Simulator",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Smoke and Sacrifice",
       "aliases": [],
       "platforms": [
@@ -73344,6 +73389,21 @@
     },
     {
       "title": "Subsistence",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Substrate: Emergence",
       "aliases": [],
       "platforms": [
         "pc"
@@ -91008,6 +91068,21 @@
     },
     {
       "title": "Wolfpack",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Wolfsbanner: Medieval Kingdom RPG",
       "aliases": [],
       "platforms": [
         "pc"
