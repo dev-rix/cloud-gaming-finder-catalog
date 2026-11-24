@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-23T21:56:45.752Z",
+  "updatedAt": "2026-11-24T20:32:23.405Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -621,6 +621,21 @@
     },
     {
       "title": "8AM",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "8AM: The Graveyard",
       "aliases": [],
       "platforms": [
         "pc"
@@ -4618,6 +4633,21 @@
     },
     {
       "title": "Arboria",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Arboria Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -15038,6 +15068,21 @@
     },
     {
       "title": "Code of Princess",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Code of Shadows",
       "aliases": [],
       "platforms": [
         "pc"
@@ -46941,21 +46986,6 @@
       }
     },
     {
-      "title": "Might & Magic Fates - Heroes TCG",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
-      }
-    },
-    {
       "title": "Might & Magic® Heroes® VI",
       "aliases": [],
       "platforms": [
@@ -47011,6 +47041,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "Might and Magic The Card Game",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -52327,6 +52372,21 @@
       }
     },
     {
+      "title": "Once Alive",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Once Human",
       "aliases": [],
       "platforms": [
@@ -52398,6 +52458,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "One More Donut",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -56504,6 +56579,21 @@
     },
     {
       "title": "Pocket Kingdom",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Poco Loco",
       "aliases": [],
       "platforms": [
         "pc"
