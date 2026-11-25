@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-24T20:32:23.405Z",
+  "updatedAt": "2026-11-25T19:50:03.014Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -5435,6 +5435,21 @@
     },
     {
       "title": "Ash of Gods: The Way",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Ashes of Kardoria",
       "aliases": [],
       "platforms": [
         "pc"
@@ -19153,6 +19168,21 @@
       }
     },
     {
+      "title": "Deadstick - Bush Pilot Simulator Demo",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Deadzone Rogue 2 Demo",
       "aliases": [],
       "platforms": [
@@ -32228,8 +32258,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -32959,6 +32988,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Greedland",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -38174,8 +38218,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -39400,7 +39443,8 @@
         "pc"
       ],
       "stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
@@ -58870,8 +58914,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -60587,6 +60630,21 @@
     },
     {
       "title": "Reigns: Three Kingdoms",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Rejected Draft",
       "aliases": [],
       "platforms": [
         "pc"
@@ -67429,8 +67487,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -68384,7 +68441,8 @@
         "pc"
       ],
       "stores": [
-        "STEAM"
+        "STEAM",
+        "XBOX"
       ],
       "status": "available",
       "metadata": {
@@ -76634,6 +76692,21 @@
       }
     },
     {
+      "title": "Territory",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Terrordrome - Reign of the Legends",
       "aliases": [],
       "platforms": [
@@ -81078,6 +81151,20 @@
       ],
       "stores": [
         "EPIC"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
+      "title": "The Spell Brigade",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
       ],
       "status": "available",
       "metadata": {
@@ -88036,8 +88123,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
@@ -88635,6 +88721,21 @@
       }
     },
     {
+      "title": "Voyagers of Nera",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "VRChat",
       "aliases": [],
       "platforms": [
@@ -88710,6 +88811,21 @@
     },
     {
       "title": "Wake Explorer",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Walk Hero Demo",
       "aliases": [],
       "platforms": [
         "pc"
@@ -91445,6 +91561,7 @@
         "pc"
       ],
       "stores": [
+        "WARGAMING",
         "STEAM"
       ],
       "status": "available",
@@ -93596,8 +93713,7 @@
       ],
       "status": "available",
       "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
+        "playType": "READY_TO_PLAY"
       }
     },
     {
