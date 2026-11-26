@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-25T19:50:03.014Z",
+  "updatedAt": "2026-11-26T19:28:20.242Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -10486,6 +10486,21 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "BORE",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
@@ -27874,6 +27889,21 @@
       }
     },
     {
+      "title": "Farmer's Diary",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Farmer's Father: Save the Innocence",
       "aliases": [],
       "platforms": [
@@ -36545,21 +36575,6 @@
       "status": "available",
       "metadata": {
         "playType": "READY_TO_PLAY"
-      }
-    },
-    {
-      "title": "Hood Warfare 2",
-      "aliases": [],
-      "platforms": [
-        "pc"
-      ],
-      "stores": [
-        "STEAM"
-      ],
-      "status": "available",
-      "metadata": {
-        "playType": "INSTALL_TO_PLAY",
-        "minimumMembershipTier": "Premium"
       }
     },
     {
@@ -60973,6 +60988,21 @@
       }
     },
     {
+      "title": "Reshine",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
       "title": "Resident Evil 2",
       "aliases": [],
       "platforms": [
@@ -70379,6 +70409,21 @@
     },
     {
       "title": "Split Brain",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Split Brain Samsara",
       "aliases": [],
       "platforms": [
         "pc"
@@ -83713,6 +83758,21 @@
     },
     {
       "title": "Tooth and Tail",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "TOP STEED",
       "aliases": [],
       "platforms": [
         "pc"
