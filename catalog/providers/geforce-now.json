@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-26T19:28:20.242Z",
+  "updatedAt": "2026-11-27T19:23:44.891Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -4469,6 +4469,20 @@
       }
     },
     {
+      "title": "Appulse",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
+      }
+    },
+    {
       "title": "Appulse Demo",
       "aliases": [],
       "platforms": [
@@ -4885,6 +4899,20 @@
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
         "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Arctic Drive",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY"
       }
     },
     {
