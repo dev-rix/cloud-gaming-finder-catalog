@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
-  "catalogVersion": "2026.11.27.1",
-  "updatedAt": "2026-11-27T19:23:44.891Z",
+  "catalogVersion": "2026.11.28.1",
+  "updatedAt": "2026-11-28T18:00:59.861Z",
   "providers": [
     {
       "id": "geforce-now",

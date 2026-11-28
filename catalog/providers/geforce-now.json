@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1",
   "provider": "geforce-now",
-  "updatedAt": "2026-11-27T19:23:44.891Z",
+  "updatedAt": "2026-11-28T18:00:59.861Z",
   "source": "https://www.nvidia.com/en-us/geforce-now/games/",
   "games": [
     {
@@ -5091,6 +5091,21 @@
       "status": "available",
       "metadata": {
         "playType": "INSTALL_TO_PLAY",
+        "minimumMembershipTier": "Premium"
+      }
+    },
+    {
+      "title": "Arkheron",
+      "aliases": [],
+      "platforms": [
+        "pc"
+      ],
+      "stores": [
+        "STEAM"
+      ],
+      "status": "available",
+      "metadata": {
+        "playType": "READY_TO_PLAY",
         "minimumMembershipTier": "Premium"
       }
     },
